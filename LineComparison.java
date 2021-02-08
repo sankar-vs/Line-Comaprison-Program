@@ -29,6 +29,11 @@ public class LineComparison {
                 }
                 else {
                         System.out.println("The two modelled lines are un-equal in Length.");
+			//Comparison of two line to find the greatest
+			if ( lengthLine1 > lengthLine2 )
+                                System.out.println("Modelled Length of Line-1 is greater than the Length of Line-2");
+                        else
+                                System.out.println("Modelled Length of Line-2 is greater than the Length of Line-1");
                 }
 		//Printing the Length of two Modelled Lines
                 System.out.println("Length of the modelled Line-1: "+lengthLine1);
