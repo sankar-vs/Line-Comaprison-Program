@@ -5,4 +5,6 @@
 #### Check equality of two lines based on the end points, to know when two lines are the equal.
 ### Used Case:3
 #### Compare two modelled Lines and find which is greater.
+### Used Case:4
+#### Create a class method, compareTo methos and calculateLength method.
 
